@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Base npm and webpack configuration for homework",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/MissouriState-CSC515-Spring2019/starter-kit.git"
@@ -14,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/MissouriState-CSC515-Spring2019/starter-kit/issues"
   },
-  "homepage": "https://github.com/MissouriState-CSC515-Spring2019/starter-kit#readme"
+  "homepage": "https://github.com/MissouriState-CSC515-Spring2019/starter-kit#readme",
+  "dependencies": {
+    "webpack": "^4.28.4"
+  }
 }
