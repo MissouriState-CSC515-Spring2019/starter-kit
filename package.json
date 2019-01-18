@@ -1,0 +1,18 @@
+{
+  "name": "515-615-starter-kit",
+  "version": "1.0.0",
+  "description": "Base npm and webpack configuration for homework",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MissouriState-CSC515-Spring2019/starter-kit.git"
+  },
+  "author": "Chad Killingsworth <chadkillingsworth@missouristate.edu>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MissouriState-CSC515-Spring2019/starter-kit/issues"
+  },
+  "homepage": "https://github.com/MissouriState-CSC515-Spring2019/starter-kit#readme"
+}
