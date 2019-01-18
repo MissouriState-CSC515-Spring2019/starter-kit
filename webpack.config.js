@@ -12,6 +12,9 @@ module.exports = (env, args) => {
     },
     plugins: [
       new HtmlWebpackPlugin()
-    ]
+    ],
+    devServer: {
+      https: true
+    }
   };
 };
