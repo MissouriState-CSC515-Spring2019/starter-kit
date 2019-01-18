@@ -16,5 +16,8 @@
   "homepage": "https://github.com/MissouriState-CSC515-Spring2019/starter-kit#readme",
   "dependencies": {
     "webpack": "^4.28.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.1"
   }
 }
